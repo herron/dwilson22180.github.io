@@ -3,12 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about me!
+I like to do math problems in my head. Nine is my favorite number.
 
 ### More Information
 
-Startup survivor. Tech writer. 
+Startup survivor. Tech writer. Movie lover.
 
 ### Contact me
 
