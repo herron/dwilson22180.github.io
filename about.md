@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-I like to do math problems in my head. Nine is my favorite number. Like Marcel Proust, my favorite bird is the swallow. Oh no wait a minute, I prefer the Northern Flicker.
+I like to do math problems in my head. Nine is my favorite number. My favorite bird is the swallow. Oh no wait a minute, I prefer the Northern Flicker.
 
 ### More Information
 
